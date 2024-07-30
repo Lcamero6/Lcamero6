@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Latrice Cameron
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently working on earning the Google Cybersecurity Professional Certificate
-- 💞️ I’m looking to collaborate on Python and SQL programming
-- 📫 How to reach me latricencameron@Gmail.com
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 
